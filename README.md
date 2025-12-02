@@ -1,36 +1,50 @@
-<h1 align="center">🌟 Welcome to My Profile 🌟</h1>
+<h1 align="center">✨ Amrata's Tech Universe ✨</h1>
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amratadev/amratadev/main/banner.png" width="100%" alt="Profile Banner"/>
+  <img src="https://raw.githubusercontent.com/amratadev/amratadev/main/banner.png" width="100%" alt="Colorful Tech Banner"/>
 </p>
 
+<!-- Tagline -->
 <p align="center">
-I build tech projects in <b>Python, Java and Web Development</b>.<br>
-Sharing knowledge through clear and accessible resources 🚀
+  <b>Empowering learners through code</b><br>
+  Bilingual projects in <span style="color:#f39c12;">Python</span>, <span style="color:#2980b9;">Java</span>, and <span style="color:#27ae60;">Web Development</span> 🚀
 </p>
 
+<!-- Quick Links -->
 <p align="center">
-  <a href="https://amrata4241.github.io/">🌐 Visit My Portfolio</a> •
-  <a href="https://www.linkedin.com/in/amrata">💼 LinkedIn</a> •
-  <a href="mailto:amrata.deokar@gmail.com">📧 Contact</a>
+  🔗 <a href="https://amrata4241.github.io/">Visit My Portfolio</a> •  
+  💼 <a href="https://www.linkedin.com/in/amrata">LinkedIn</a> •  
+  📧 <a href="mailto:yourmail@example.com">Contact Me</a>
 </p>
 
+<!-- Skills Table -->
 <table align="center">
   <tr>
-    <th>Languages</th><th>Tools</th><th>Focus</th>
+    <th>💻 Languages</th>
+    <th>🛠️ Tools</th>
+    <th>🎯 Focus</th>
   </tr>
   <tr>
-    <td>Python, Java, C++</td><td>GitHub, Power BI</td><td>Accessible learning resources</td>
+    <td>Python, Java, C++</td>
+    <td>GitHub, Power BI</td>
+    <td>Accessible learning resources</td>
   </tr>
 </table>
 
+<!-- Collapsible Section -->
 <details>
   <summary>📘 More About Me</summary>
   <p>
-    - Freelance professional + Tech Learner<br>
-    - Exploring AI & Web Development<br>
-    - Building recruiter‑friendly GitHub repositories with neat documentation
+    • Freelance Telesales Executive + Tech Learner<br>
+    • Exploring AI Engineering & Web Dev<br>
+    • Building bilingual, recruiter-friendly GitHub repositories with neat documentation<br>
+    • Proudly blending logic, culture, and creativity from Maharashtra 🇮🇳
   </p>
 </details>
 
+<!-- Footer -->
 <p align="center">
+  <i>Made with ❤️, logic, and cultural pride | By Amrata</i>
+</p>
+  
