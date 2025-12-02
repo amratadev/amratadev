@@ -1,4 +1,7 @@
 <h1 align="center">✨ Amrata's Tech Universe ✨</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amratadev/amratadev/main/banner.png" width="100%" alt="Profile Banner"/>
+</p>
 
 <!-- Banner -->
 <p align="center">
