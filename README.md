@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I build tech projects in <b>Python, Java,Power BI,Excel,Machine learning,SQL and Web Development</b>.<br>
+I build tech projects in <b>Python, Java and Web Development</b>.<br>
 Sharing knowledge through clear and accessible resources 🚀
 </p>
 
