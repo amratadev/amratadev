@@ -1,12 +1,14 @@
-<h1 align="center">✨ Amrata's Tech Universe ✨</h1>
+<!-- Header Banner -->
 <p align="center">
-  <img src="A clean GitHub banne.png" alt="Profile Banner" width="100%">
+  <img src="A_clean_GitHub_banne_optimized_1000.png" alt="Profile Banner" width="100%">
 </p>
 
-<!-- Banner -->
+<!-- Optional Secondary Banner (if needed) -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/amratadev/amratadev/main/banner.png" width="100%" alt="Colorful Tech Banner"/>
 </p>
+-->
 
 <!-- Tagline -->
 <p align="center">
@@ -48,6 +50,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <i>Made with ❤️, logic, and cultural pride | By Amrata</i>
+  Made with ❤️ and logic | By Amrata
 </p>
-  
